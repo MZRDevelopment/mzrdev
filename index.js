@@ -50,6 +50,15 @@ const rest = new REST({ version: '10' }).setToken(token);
 
 client.on('ready', () => {
   console.log("Bot Aktif!");
+  client.user.setActivity({
+    name: 'YouTube: @MZRDev',
+    type: ActivityType.Playing
+    // ActivityType.Playing = oynuyor
+    // ActivityType.Watching = izliyor
+    // ActivityType.Streaming = Discord sunucuma gelip nasıl yapıldığını öğrenebilirsin
+    // ActivityType.Listening = dinliyor
+    // ActivityType.Competing = yarışmasında yarışıyor
+  });
 });
 
 client.on('interactionCreate', async interaction => {
