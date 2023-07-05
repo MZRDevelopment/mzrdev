@@ -58,6 +58,7 @@ client.on('ready', () => {
     // ActivityType.Streaming = Discord sunucuma gelip nasıl yapıldığını öğrenebilirsin
     // ActivityType.Listening = dinliyor
     // ActivityType.Competing = yarışmasında yarışıyor
+    // Eğerki dökümanlardan görmek istiyorsanız: https://discord-api-types.dev/api/discord-api-types-v10/enum/ActivityType
   });
 });
 
