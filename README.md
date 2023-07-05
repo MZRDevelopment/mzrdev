@@ -2,7 +2,7 @@
 v14 Discord kütüphaneli Basit Bot Altyapısıdır.
 
 ### Komutlar
-> ✅ /test Komutu <br>
+> /test Komutu <br>
 
 ## ✨ Başlarken
 Botu kullanıma hazırlamak için aşağıdaki adımları izle
