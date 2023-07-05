@@ -1,0 +1,20 @@
+{
+  "name": "bot-serisi",
+  "version": "0.0.1",
+  "description": "YouTube: @MZRDev / MZR Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "mzr",
+    "mzr-dev",
+    "mzr-development",
+    "mzrdev"
+  ],
+  "author": "mzrdev",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
