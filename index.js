@@ -56,7 +56,7 @@ client.on('interactionCreate', async interaction => {
   if (!interaction.isChatInputCommand()) return;
 
   if (interaction.commandName === 'test') {
-    await interaction.reply(`Bu bir test mesajıdır.`);
+    await interaction.reply(`Bu bir test mesajıdır.`, ephemeral: true );
   }
 });
 
