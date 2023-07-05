@@ -1,8 +1,7 @@
 # Basit Bot Altyapısı
 v14 Discord kütüphaneli Basit Bot Altyapısıdır.
 
-## ❤️ Özellikler
-### Komutları
+### Komutlar
 > ✅ /test Komutu <br>
 
 ## ✨ Başlarken
