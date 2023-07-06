@@ -1,4 +1,4 @@
-const { Client, GatewayIntentBits, Partials, REST, Routes } = require("discord.js");
+const { Client, GatewayIntentBits, Partials, REST, Routes, ActivityType } = require("discord.js");
 const { token, botID } = require('./config.json');
 
 const client = new Client({ 
